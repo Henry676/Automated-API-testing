@@ -1,1 +1,1 @@
-# Automated API testing for Buggy Cars Website
+# Automated API testing
