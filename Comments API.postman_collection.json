@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "1b9a611f-3bf9-4d98-975a-0ec66db3834f",
+		"name": "Comments API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39039937"
+	},
+	"item": [
+		{
+			"name": "Comments testing",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
